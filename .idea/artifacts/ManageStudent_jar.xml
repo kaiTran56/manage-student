@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ManageStudent:jar">
+    <output-path>$PROJECT_DIR$/../../GMO/daily_report</output-path>
+    <root id="archive" name="ManageStudent.jar">
+      <element id="module-output" name="ManageStudent" />
+    </root>
+  </artifact>
+</component>
